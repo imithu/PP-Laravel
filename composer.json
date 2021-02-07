@@ -1,0 +1,17 @@
+{
+    "name": "imithu/pp-laravel",
+    "authors": [
+        {
+            "name": "imithu",
+            "email": "imithu@imithu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PP\\": [
+                "PP"
+            ]
+        }
+    }
+}
