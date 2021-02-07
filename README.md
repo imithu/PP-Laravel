@@ -4,11 +4,7 @@ Create and use your own principle library.
 
 
 ## Guide
-create a folder in root named PP\
-eg.\
-PP/\
-vendor/\
-Readme.md
+write all the codes under PP directory.
 ``` php
     // namespace PP;
 ```
