@@ -1,5 +1,7 @@
 {
     "name": "imithu/pp-laravel",
+    "description": "Principle for Laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "imithu",
