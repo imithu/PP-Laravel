@@ -1,5 +1,5 @@
 ### [v1.0.1](https://github.com/imithu/PP-Laravel/releases/tag/v1.0.1) - 2021-Feb-07
-#### Added
+#### Changed
 - composer update
 
 
